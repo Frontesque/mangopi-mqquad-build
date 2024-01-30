@@ -10,5 +10,5 @@ cd $working_directory
 source scripts/arm-trusted-firmware.sh
 
 ###   Run uBoot Script   ###
-#cd $working_directory
-# source scripts/u-boot.sh #incomplete
+cd $working_directory
+source scripts/u-boot.sh #incomplete
